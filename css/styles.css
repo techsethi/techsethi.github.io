@@ -11293,8 +11293,9 @@ html {
 }
 
 .page-section {
-  padding: 1rem 0;
+  padding: 2rem 0;
 }
+
 .page-section .page-section-heading {
   font-size: 2.25rem;
   line-height: 2rem;
